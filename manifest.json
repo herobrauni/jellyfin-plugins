@@ -13,7 +13,7 @@
         "changelog": "Rebuilt for Jellyfin 12.1 (net10.0, Jellyfin.Controller 12.1.0). Fixes the scheduled full sync failing with MissingMethodException: IUserManager.get_Users() \u2014 Jellyfin 12 removed the Users property, GetUsers() replaces it.",
         "targetAbi": "12.1.0.0",
         "sourceUrl": "https://github.com/herobrauni/jellyfin-plugins/releases/download/watchsync-1.1.0.0/watchsync-1.1.0.0.zip",
-        "checksum": "D425970BD72FC56B2AEEB8B3E30002F3",
+        "checksum": "7F35E26DBBF1D72A4FC66EEEC1B99EDD",
         "timestamp": "2026-11-18T00:00:00Z"
       },
       {
